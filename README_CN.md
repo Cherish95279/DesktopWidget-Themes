@@ -5,7 +5,7 @@
 
 DesktopWidget 官方**主题**共享仓库。这里收录社区创作的主题，用户可以下载 ZIP 包导入到 [DesktopWidget](https://github.com/Cherish95279/DesktopWidget) 桌面小组件中，自定义表盘外观。
 
-> **适用版本**：DesktopWidget v1.5.0 及以上
+> **适用版本**：DesktopWidget v1.5.5 及以上
 
 <p align="center">
   <a href="README.md"><strong>🇺🇸 English</strong></a> |

@@ -5,7 +5,7 @@
 
 The official **theme** repository for DesktopWidget. This repo hosts community-created themes that users can download as ZIP packages and import into the [DesktopWidget](https://github.com/Cherish95279/DesktopWidget) desktop widget to customize its appearance.
 
-> **Requires**: DesktopWidget v1.5.0 or later
+> **Requires**: DesktopWidget v1.5.5 or later
 
 <p align="center">
   <a href="README.md"><strong>🇺🇸 English</strong></a> |

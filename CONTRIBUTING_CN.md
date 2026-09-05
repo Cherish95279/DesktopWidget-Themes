@@ -22,7 +22,7 @@
 
 ## 1. 前置要求
 
-- DesktopWidget v1.5.0 或更高版本（用于本地导入测试）
+- DesktopWidget v1.5.5 或更高版本（用于本地导入测试）
 - 支持 PNG RGBA 透明通道的图像编辑器（如 Photoshop、GIMP、Krita、Aseprite）
 - 已阅读[主题制作开发指南](https://github.com/Cherish95279/DesktopWidget/blob/main/docs/THEME_DEV_GUIDE.md)
 

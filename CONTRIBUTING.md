@@ -22,7 +22,7 @@ Thanks for your interest in contributing a theme to DesktopWidget! This file exp
 
 ## 1. Prerequisites
 
-- DesktopWidget v1.5.0 or later (for local import testing)
+- DesktopWidget v1.5.5 or later (for local import testing)
 - An image editor that supports PNG with RGBA transparency (e.g., Photoshop, GIMP, Krita, Aseprite)
 - Read the [Theme Development Guide](https://github.com/Cherish95279/DesktopWidget/blob/main/docs/THEME_DEV_GUIDE_EN.md)
 
