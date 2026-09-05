@@ -9,3 +9,6 @@ desktop.ini
 
 # Temporary
 *.tmp/
+
+# Release ZIPs (hosted on GitHub Releases)
+releases/
