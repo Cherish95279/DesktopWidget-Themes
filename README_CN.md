@@ -18,7 +18,7 @@ DesktopWidget 官方**主题**共享仓库。这里收录社区创作的主题�
 
 | 主题 | 作者 | 预览 | 下载 |
 |------|------|------|------|
-| 赛博2077 | DesktopWidget | [预览](themes/赛博2077-test/face.png) | [ZIP](https://github.com/Cherish95279/DesktopWidget-Themes/releases/download/%E8%B5%9B%E5%8D%9A2077_v1.0.0/%E8%B5%9B%E5%8D%9A2077_v1.0.0.zip) |
+| 赛博2077 | DesktopWidget | [预览](themes/赛博2077-test/face.png) | [ZIP](https://github.com/Cherish95279/DesktopWidget-Themes/releases/download/%E8%B5%9B%E5%8D%9A2077_v1.0.0/Cyber2077_v1.0.0.zip) |
 
 > 标记 ✅ 的主题已通过审核。主题是 PNG 图片包，不包含代码，不存在安全风险。
 
