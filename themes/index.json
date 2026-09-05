@@ -1,6 +1,15 @@
 {
   "schema_version": 1,
-  "updated": "",
+  "updated": "2026-09-05",
   "repo_url": "https://github.com/Cherish95279/DesktopWidget-Themes",
-  "themes": []
+  "themes": [
+    {
+      "name": "赛博2077",
+      "author": "DesktopWidget",
+      "version": "1.0.0",
+      "preview_url": "themes/赛博2077-test/face.png",
+      "download_url": "https://github.com/Cherish95279/DesktopWidget-Themes/releases/download/%E8%B5%9B%E5%8D%9A2077_v1.0.0/%E8%B5%9B%E5%8D%9A2077_v1.0.0.zip",
+      "source_path": "themes/赛博2077-test"
+    }
+  ]
 }

@@ -18,7 +18,7 @@ The official **theme** repository for DesktopWidget. This repo hosts community-c
 
 | Theme | Author | Preview | Download |
 |-------|--------|---------|----------|
-| _(Themes will be listed here after they are added)_ | | | |
+| 赛博2077 | DesktopWidget | [Preview](themes/赛博2077-test/face.png) | [ZIP](https://github.com/Cherish95279/DesktopWidget-Themes/releases/download/%E8%B5%9B%E5%8D%9A2077_v1.0.0/%E8%B5%9B%E5%8D%9A2077_v1.0.0.zip) |
 
 > Marked ✅ themes have passed review. Themes are PNG image packs — no code, so there is no security risk.
 
